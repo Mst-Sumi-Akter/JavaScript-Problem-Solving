@@ -71,6 +71,7 @@ Example:
 Input: "hello world"
 Output: "Hello World"
 
+solved all these problems
 
 Problem 9: Find the Factorial of a Number
 Write a function that calculates the factorial of a number using a loop.
