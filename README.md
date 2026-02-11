@@ -1,3 +1,6 @@
+GitHub repository link: 
+https://github.com/Mst-Sumi-Akter/JavaScript-Problem-Solving
+
 #### 10 Problems
 
 Problem 1: Reverse a String
