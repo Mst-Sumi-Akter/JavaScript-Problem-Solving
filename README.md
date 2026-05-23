@@ -58,6 +58,7 @@ Example:
 Input: [1, 2, 3, 4]
 Output: 10
 
+----
 
 Problem 7: Find Even Numbers in an Array
 Write a function that returns all even numbers from a given array.
@@ -67,6 +68,7 @@ Example:
 Input: [1, 2, 3, 4, 5, 6]
 Output: [2, 4, 6]
 
+----
 
 Problem 8: Capitalize First Letter of Each Word
 Write a function that capitalizes the first letter of each word in a string.
@@ -77,6 +79,8 @@ Input: "hello world"
 Output: "Hello World"
 
 solved all these problems
+
+----
 
 Problem 9: Find the Factorial of a Number
 Write a function that calculates the factorial of a number using a loop.
