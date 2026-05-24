@@ -20,6 +20,7 @@ Example:
 Input: "programming"
 Output: 3
 
+----
 
 Problem 3: Check for Palindrome
 Write a function that checks if a string is a palindrome (reads the same forward and backward).
@@ -40,6 +41,7 @@ Example:
 Input: [5,1,3,9,2,0]
 Output: 9
 
+----
 
 Problem 5: Remove Duplicates from an Array
 Write a function that removes all duplicate numbers from an array.
@@ -90,6 +92,7 @@ Example:
 Input: 5
 Output: 120
 
+----
 
 Problem 10: PingPong Challenge
 Write a function that prints numbers from 1 to 20.
