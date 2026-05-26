@@ -84,7 +84,7 @@ solved all these problems
 
 ----
 
-Problem 9: Find the Factorial of a Number
+# Problem 9: Find the Factorial of a Number
 Write a function that calculates the factorial of a number using a loop.
 
 Example:
@@ -94,7 +94,7 @@ Output: 120
 
 ----
 
-Problem 10: PingPong Challenge
+# Problem 10: PingPong Challenge
 Write a function that prints numbers from 1 to 20.
 
 Example:
@@ -106,3 +106,5 @@ If the number is not a multiple of 3 or 5, print the number itself
 Example Output:
 
 1, 2, Ping, 4, Pong, Ping, 7, 8, Ping, Pong, 11, Ping, 13, 14, PingPong, 16 …..
+
+----
