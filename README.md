@@ -80,8 +80,6 @@ Example:
 Input: "hello world"
 Output: "Hello World"
 
-solved all these problems
-
 ----
 
 # Problem 9: Find the Factorial of a Number
@@ -106,5 +104,8 @@ If the number is not a multiple of 3 or 5, print the number itself
 Example Output:
 
 1, 2, Ping, 4, Pong, Ping, 7, 8, Ping, Pong, 11, Ping, 13, 14, PingPong, 16 …..
+
+
+solved all these problems
 
 ----
