@@ -8,7 +8,7 @@ Write a function that takes a string and returns it reversed.
 
 Example:
 
-Input: "hello"
+Input: "hello" <br>
 Output: "olleh"
 
 
@@ -17,7 +17,7 @@ Write a function that counts how many vowels (a, e, i, o, u) are in a given stri
 
 Example:
 
-Input: "programming"
+Input: "programming" <br>
 Output: 3
 
 ----
@@ -27,10 +27,10 @@ Write a function that checks if a string is a palindrome (reads the same forward
 
 Example:
 
-Input: "madam"
-Output: true
-Input: "hello"
-Output: false
+Input: "madam" <br>
+Output: true <br>
+Input: "hello" <br>
+Output: false <br>
 
 
 # Problem 4: Find the Maximum Number
@@ -38,9 +38,8 @@ Write a function that takes an array of numbers and returns the largest number.
 
 Example:
 
-Input: [5,1,3,9,2,0]
-Output: 9
-
+Input: [5,1,3,9,2,0] <br>
+Output: 9 <br>
 ----
 
 # Problem 5: Remove Duplicates from an Array
@@ -48,17 +47,16 @@ Write a function that removes all duplicate numbers from an array.
 
 Example:
 
-Input: [1, 2, 2, 3, 4, 4]
-Output: [1, 2, 3, 4]
-
+Input: [1, 2, 2, 3, 4, 4] <br>
+Output: [1, 2, 3, 4] <br>
 
 # Problem 6: Sum of All Numbers in an Array
 Write a function that returns the sum of all numbers in an array.
 
 Example:
 
-Input: [1, 2, 3, 4]
-Output: 10
+Input: [1, 2, 3, 4] <br>
+Output: 10 <br>
 
 ----
 
@@ -67,9 +65,8 @@ Write a function that returns all even numbers from a given array.
 
 Example:
 
-Input: [1, 2, 3, 4, 5, 6]
-Output: [2, 4, 6]
-
+Input: [1, 2, 3, 4, 5, 6] <br>
+Output: [2, 4, 6] <br>
 ----
 
 # Problem 8: Capitalize First Letter of Each Word
@@ -77,7 +74,7 @@ Write a function that capitalizes the first letter of each word in a string.
 
 Example:
 
-Input: "hello world"
+Input: "hello world" <br>
 Output: "Hello World"
 
 ----
@@ -87,7 +84,7 @@ Write a function that calculates the factorial of a number using a loop.
 
 Example:
 
-Input: 5
+Input: 5 <br>
 Output: 120
 
 ----
