@@ -11,6 +11,7 @@ Example:
 Input: "hello" <br>
 Output: "olleh"
 
+----
 
 # Problem 2: Count Vowels in a String
 Write a function that counts how many vowels (a, e, i, o, u) are in a given string.
@@ -32,6 +33,7 @@ Output: true <br>
 Input: "hello" <br>
 Output: false <br>
 
+---- 
 
 # Problem 4: Find the Maximum Number
 Write a function that takes an array of numbers and returns the largest number.
@@ -40,6 +42,7 @@ Example:
 
 Input: [5,1,3,9,2,0] <br>
 Output: 9 <br>
+
 ----
 
 # Problem 5: Remove Duplicates from an Array
@@ -49,6 +52,8 @@ Example:
 
 Input: [1, 2, 2, 3, 4, 4] <br>
 Output: [1, 2, 3, 4] <br>
+
+----
 
 # Problem 6: Sum of All Numbers in an Array
 Write a function that returns the sum of all numbers in an array.
@@ -67,6 +72,7 @@ Example:
 
 Input: [1, 2, 3, 4, 5, 6] <br>
 Output: [2, 4, 6] <br>
+
 ----
 
 # Problem 8: Capitalize First Letter of Each Word
