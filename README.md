@@ -31,7 +31,7 @@ Example:
 Input: "madam" <br>
 Output: true <br>
 Input: "hello" <br>
-Output: false <br>
+Output: false 
 
 ---- 
 
