@@ -1,11 +1,11 @@
 GitHub repository link: 
 https://github.com/Mst-Sumi-Akter/JavaScript-Problem-Solving
 
-# 10 Problems solving question 
+# 10 Problem-Solving Questions 
 
-# Problem 1 : Reverse a String
+# Problem 1: Reverse a String
 
-Write a function that takes a string and returns it reversed.
+Write a function that takes a string and returns it in reverse order.
 
 Example:
 
@@ -119,6 +119,6 @@ Example Output:
 1, 2, Ping, 4, Pong, Ping, 7, 8, Ping, Pong, 11, Ping, 13, 14, PingPong, 16 …..
 
 
-solved all these problems
+Solved all these problems
 
 ----
