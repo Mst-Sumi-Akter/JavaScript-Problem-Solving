@@ -45,7 +45,7 @@ Write a function that takes an array of numbers and returns the largest number.
 Example:
 
 Input: [5,1,3,9,2,0] <br>
-Output: 9 <br>
+Output: 9
 
 ----
 
@@ -56,7 +56,7 @@ Write a function that removes all duplicate numbers from an array.
 Example:
 
 Input: [1, 2, 2, 3, 4, 4] <br>
-Output: [1, 2, 3, 4] <br>
+Output: [1, 2, 3, 4] 
 
 ----
 
