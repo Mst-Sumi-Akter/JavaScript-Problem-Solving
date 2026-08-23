@@ -5,7 +5,7 @@ https://github.com/Mst-Sumi-Akter/JavaScript-Problem-Solving
 
 # 10 Problem-Solving Questions 
 
-# Problem 1: Reverse a String
+## Problem 1: Reverse a String
 
 Write a function that takes a string and returns it in reverse order.
 
@@ -16,7 +16,7 @@ Output: "olleh"
 
 ----
 
-# Problem 2: Count Vowels in a String
+## Problem 2: Count Vowels in a String
 
 Write a function that counts how many vowels (a, e, i, o, u) are in a given string.
 
@@ -27,7 +27,7 @@ Output: 3
 
 ----
 
-# Problem 3: Check for Palindrome
+## Problem 3: Check for Palindrome
 
 Write a function that checks if a string is a palindrome (reads the same forward and backward).
 
@@ -40,7 +40,7 @@ Output: false
 
 ---- 
 
-# Problem 4: Find the Maximum Number
+## Problem 4: Find the Maximum Number
 
 Write a function that takes an array of numbers and returns the largest number.
 
@@ -51,7 +51,7 @@ Output: 9
 
 ----
 
-# Problem 5: Remove Duplicates from an Array
+## Problem 5: Remove Duplicates from an Array
 
 Write a function that removes all duplicate numbers from an array.
 
@@ -62,7 +62,7 @@ Output: [1, 2, 3, 4]
 
 ----
 
-# Problem 6: Sum of All Numbers in an Array
+## Problem 6: Sum of All Numbers in an Array
 
 Write a function that returns the sum of all numbers in an array.
 
@@ -73,7 +73,7 @@ Output: 10
 
 ----
 
-# Problem 7: Find Even Numbers in an Array
+## Problem 7: Find Even Numbers in an Array
 
 Write a function that returns all even numbers from a given array.
 
@@ -84,7 +84,7 @@ Output: [2, 4, 6]
 
 ----
 
-# Problem 8: Capitalize First Letter of Each Word
+## Problem 8: Capitalize First Letter of Each Word
 
 Write a function that capitalizes the first letter of each word in a string.
 
@@ -95,7 +95,7 @@ Output: "Hello World"
 
 ----
 
-# Problem 9: Find the Factorial of a Number
+## Problem 9: Find the Factorial of a Number
 
 Write a function that calculates the factorial of a number using a loop.
 
@@ -106,7 +106,7 @@ Output: 120
 
 ----
 
-# Problem 10: PingPong Challenge
+## Problem 10: PingPong Challenge
 
 Write a function that prints numbers from 1 to 20.
 
