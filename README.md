@@ -1,6 +1,4 @@
-GitHub repository link: 
-
-https://github.com/Mst-Sumi-Akter/JavaScript-Problem-Solving
+GitHub repository link: https://github.com/Mst-Sumi-Akter/JavaScript-Problem-Solving
 
 
 
