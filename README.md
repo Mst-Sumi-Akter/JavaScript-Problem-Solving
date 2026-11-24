@@ -1,7 +1,6 @@
 ### GitHub repository link: https://github.com/Mst-Sumi-Akter/JavaScript-Problem-Solving
 
 
-
 # 10 Problem-Solving Questions 
 
 ## Problem 1: Reverse a String
@@ -115,6 +114,7 @@ For multiples of 3, print "Ping"  <br>
 For multiples of 5, print "Pong" <br>
 For multiples of both 3 and 5, print "PingPong" <br>
 If the number is not a multiple of 3 or 5, print the number itself <br>
+
 Example Output:
 
 1, 2, Ping, 4, Pong, Ping, 7, 8, Ping, Pong, 11, Ping, 13, 14, PingPong, 16 …..
