@@ -27,7 +27,7 @@ Output: 3
 
 ## Problem 3: Check for Palindrome
 
-Write a function that checks if a string is a palindrome (reads the same forward and backward).
+Write a function that checks if a string is a palindrome (reads the same word or sentence forward and backward).
 
 Example:
 
